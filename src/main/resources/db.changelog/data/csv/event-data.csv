@@ -1,0 +1,12 @@
+id;name;description;date;place;owner;street_event;group_event;family_event;free_event;sport_event;event_with_covid_restrictions;event_with_age_restrictions;event_with_registration;x_coord;y_coord
+
+;"1";"1";"11";"p1";1;0;0;0;0;0;0;0;0;10;10
+;"2";"2";"12";"p2";2;0;0;0;0;0;0;0;0;10;10
+;"street";"3";"13";"p3";1;1;0;0;0;0;0;0;0;10;10
+;"group";"4";"14";"p4";2;0;1;0;0;0;0;0;0;10;10
+;"family";"5";"15";"p5";1;0;0;1;0;0;0;0;0;10;10
+;"free";"6";"16";"p6";2;0;0;0;1;0;0;0;0;10;10
+;"sport";"7";"17";"p7";1;0;0;0;0;1;0;0;0;10;10
+;"covid";"8";"18";"p8";2;0;0;0;0;0;1;0;0;10;10
+;"age";"9";"19";"p9";1;0;0;0;0;0;0;1;0;10;10
+;"register";"10";"20";"p10";2;0;0;0;0;0;0;0;1;10;10
