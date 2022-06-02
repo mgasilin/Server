@@ -10,7 +10,4 @@
     <include file="db.changelog/1.0/2022-13-05--user.xml"/>
     <include file="db.changelog/1.0/2022-13-05--event.xml"/>
     <include file="db.changelog/1.0/2022-13-05--comment.xml"/>
-    <include file="db.changelog/data/user.xml"/>
-    <include file="db.changelog/data/event.xml"/>
-    <include file="db.changelog/data/comment.xml"/>
 </databaseChangeLog>
